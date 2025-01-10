@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Milestone 33 - Implementing User Search - Frontend\r Overview\r Milestone 33 focuses on the frontend implementation of the user search functionality. This feature allows users to search for other users through a search input field and view search results on the frontend.",
   "main": "index.js",
   "scripts": {
     "test": "node spec/runTests.js",
